@@ -29,7 +29,6 @@ const style = StyleSheet.create( {
   bodyStyle: {
     color: "white",
     marginHorizontal: 30,
-    marginVertical: 10,
   },
   container: {
     backgroundColor: "rgb(168, 46, 47)",
